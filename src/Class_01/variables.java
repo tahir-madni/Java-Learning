@@ -1,11 +1,13 @@
 /*
- * Date: 17 Feb 2026
- * Concepts Covered:
-  - Variales types
-  - Printing
- */
+* Date: 17 Feb 2026
+* Concepts Covered:
+- Variales types
+- Printing
+*/
 
-public class Class_01 {
+package Class_01;
+
+public class variables {
     /*
     public static void main(String[] args) {
     
@@ -15,7 +17,7 @@ public class Class_01 {
         System.out.println("Value of a is " + a);
         System.out.println("Sum is " + sum);
     
-        // * Variable with the term 'final' cant be updated
+        //Variable with the term 'final' cant be updated
     
         final int fv = 200;
         // fv = 20; // Not possible

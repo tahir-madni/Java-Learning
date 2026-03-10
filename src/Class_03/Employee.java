@@ -1,20 +1,23 @@
 /*
- * Date: 2 March 2026
- * Class: 03
- * Concepts Covered:
-  - Objects
-  - Scanner (User Inputs)
- */
+* Date: 2 March 2026
+* Concepts Covered:
+- Objects
+- Scanner (User Inputs)
+*/
 
-import java.util.Scanner;
+package Class_03;
+
+// import java.util.Scanner;
 
 public class Employee {
 
+    /*  
     int id;
     String name;
     float salary;
     long contact;
-    String dept;
+    String dept; 
+    */
 
     /* 
     public static void main(String[] args) {
