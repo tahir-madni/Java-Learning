@@ -6,7 +6,7 @@
 - Do-while loop
 */
 
-package Class_02;
+package Theory.Class_02;
 
 public class loops {
     /*

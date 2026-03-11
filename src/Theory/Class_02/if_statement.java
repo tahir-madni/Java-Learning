@@ -7,7 +7,7 @@
 - comparators
 */
 
-package Class_02;
+package Theory.Class_02;
 
 public class if_statement {
 

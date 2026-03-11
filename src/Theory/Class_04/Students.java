@@ -4,7 +4,7 @@
 - Array of Objects declaration and construction
 */
 
-package Class_04;
+package Theory.Class_04;
 
 import java.util.Scanner;
 

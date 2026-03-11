@@ -5,7 +5,7 @@
 - Scanner (User Inputs)
 */
 
-package Class_03;
+package Theory.Class_03;
 
 // import java.util.Scanner;
 

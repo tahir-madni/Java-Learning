@@ -5,7 +5,7 @@
 - Printing
 */
 
-package Class_01;
+package Theory.Class_01;
 
 public class variables {
     /*

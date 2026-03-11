@@ -4,7 +4,7 @@
 - switch case
 */
 
-package Class_02;
+package Theory.Class_02;
 
 public class switch_case {
 
