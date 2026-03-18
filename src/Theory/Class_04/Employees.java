@@ -50,5 +50,8 @@ public class Employees {
             System.out.println("Department: " + e[i].dept);
             System.out.println();
         }
+
+        scInt.close();
+        scStr.close();
     }
 }

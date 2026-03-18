@@ -47,11 +47,11 @@ public class paramConstructor {
 
         System.out.println(c1.regno);
         System.out.println(c1.color);
-        System.out.println(c1.company);
+        System.out.println(company);
         System.out.println(c1.model);
         System.out.println(c2.regno);
         System.out.println(c2.color);
-        System.out.println(c2.company);
+        System.out.println(company);
         System.out.println(c2.model);
     }
 }

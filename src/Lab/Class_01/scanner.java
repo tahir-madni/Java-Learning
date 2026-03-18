@@ -16,5 +16,7 @@ public class scanner {
         System.out.print("Enter User name: ");
         String name = sc.next();
         System.out.println("Name: " + name);
+
+        sc.close();
     }
 }

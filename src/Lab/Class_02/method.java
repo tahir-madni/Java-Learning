@@ -42,6 +42,8 @@ public class method {
         a = scInt.nextInt();
 
         sequence(a);
+
+        scInt.close();
     }
 
     public static int add(int a, int b) {
@@ -78,5 +80,5 @@ public class method {
     public static void helloMsg() {
         System.out.println("Hello");
     }
-
+    
 }

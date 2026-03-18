@@ -47,5 +47,8 @@ public class Students {
 
             System.out.println();
         }
+
+        scInt.close();
+        scStr.close();
     }
 }
