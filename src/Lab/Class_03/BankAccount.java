@@ -53,7 +53,7 @@ public class BankAccount {
     }
 }
 
-class Main {
+class BankAccountTest {
 
     public static void main(String[] args) {
         BankAccount b1 = new BankAccount();

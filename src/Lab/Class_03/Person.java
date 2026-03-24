@@ -36,7 +36,7 @@ public class Person {
     }
 }
 
-class Main {
+class PersonTest {
     
     public static void main(String[] args) {
 
@@ -45,8 +45,8 @@ class Main {
         p1.setAge(20);
         p1.setName("Ali");
 
-        // System.out.println(p1);
+        System.out.println(p1);
 
-        // System.out.println("Person's name is : " + p1.getName() + ", age is : " + p1.getAge() + " and height is : " + p1.height);
+        System.out.println("Person's name is : " + p1.getName() + ", age is : " + p1.getAge() + " and height is : " + p1.height);
     }
 }
