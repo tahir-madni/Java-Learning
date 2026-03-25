@@ -2,6 +2,7 @@
 * Date: 24 March 2026
 * Concepts Covered:
 - Encapsulation
+- Getters and Setters
 */
 
 package Theory.Class_06;
