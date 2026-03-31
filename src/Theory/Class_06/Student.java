@@ -10,6 +10,7 @@ package Theory.Class_06;
 import java.util.Scanner;
 
 // Encapsulatio is to wrap up some private variables and their get and set methods
+// It allows us to hide sensitive data (code) from outsiders
 
 // When we set variable as private they are only accessible inside the class. 
 // In our program we need to use those variables outside.
